@@ -28,11 +28,11 @@ python-docker/
 
 This app:
 
-✔ Waits for PostgreSQL  
-✔ Connects  
-✔ Creates table `students`  
-✔ Inserts a row (`name, course, duration, email`)  
-✔ Prints results in an ASCII table  
+ Waits for PostgreSQL  
+ Connects  
+ Creates table `students`  
+ Inserts a row (`name, course, duration, email`)  
+ Prints results in an ASCII table  
 
 Output format:
 
